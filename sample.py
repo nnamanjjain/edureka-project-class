@@ -3,4 +3,6 @@ a=10
 b=20
 c=410
 multiply=a*b*c
+sum=a+b+c
 print("The multiply of three given numbers are: ", multiply)
+print("the sum of numbers is: ",sum)
